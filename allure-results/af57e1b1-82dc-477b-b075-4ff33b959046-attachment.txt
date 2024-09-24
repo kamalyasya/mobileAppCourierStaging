@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//android.widget.ImageView[contains(@content-desc, \"test dua ratus satu\") and contains(@content-desc, \"T\")])[1]"
+}

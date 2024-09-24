@@ -1,0 +1,31 @@
+{
+  "actions": [
+    {
+      "action": "pointer",
+      "name": "finger",
+      "parameters": {
+        "isPrimary": true
+      },
+      "actions": [
+        {
+          "action": "pointerDown",
+          "button": 0
+        },
+        {
+          "action": "moveTo",
+          "x": 540,
+          "y": 1920
+        },
+        {
+          "action": "moveTo",
+          "x": 540,
+          "y": 480
+        },
+        {
+          "action": "pointerUp",
+          "button": 0
+        }
+      ]
+    }
+  ]
+}
